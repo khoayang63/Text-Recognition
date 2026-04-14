@@ -1,0 +1,13 @@
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+numpy>=1.23.0
+matplotlib>=3.7.0
+Pillow>=9.5.0
+scikit-learn>=1.2.0
+timm>=0.9.0
+
+
+# if you have a compatible NVIDIA GPU, you can install the CUDA-enabled version of PyTorch for better performance:
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
