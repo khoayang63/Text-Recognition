@@ -23,9 +23,9 @@ source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
 ```
 3. Cài đặt thư viện
-
+```bash
 pip install -r requirements.txt
-
+```
 Nếu có gpu thì tải torch và torchvision gpu: 
 ```bash
 pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
