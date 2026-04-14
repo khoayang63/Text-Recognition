@@ -13,10 +13,10 @@ Dự án này sử dụng bộ dữ liệu ICDAR 2003, một bộ dữ liệu ti
 ## ▶️ Hướng dẫn chạy
 
 1. Clone repository
-git clone [https://github.com/yourname/your-repo-name.git](https://github.com/khoayang63/Text-Recognition.git)
+git clone https://github.com/khoayang63/Text-Recognition.git
 
 
-2.Tạo môi trường ảo (khuyến khích)
+2. Tạo môi trường ảo (khuyến khích)
 python -m venv venv
 source venv/bin/activate        # Linux/Mac
 venv\Scripts\activate           # Windows
